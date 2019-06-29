@@ -1,0 +1,1 @@
+# tailor-fragment-common-template
